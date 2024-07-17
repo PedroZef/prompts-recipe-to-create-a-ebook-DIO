@@ -13,9 +13,14 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
-    width="400"  
-/>
+    src="./assets/cover.png" width="400" />
+</p>
+<br>
+<p align="center">
+    <img src="./assets/jedi1.jpg" width="300" />
+    <img src="./assets/jedi2.jpg" width="300" />
+    <img src="./assets/jedi3.jpg" width="300" />
+    <img src="./assets/jedi4.jpg" width="300" />
 </p>
 
 
